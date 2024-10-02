@@ -11,6 +11,12 @@
 * Login and Logout, Create your Profile, update Profile picture
 * Interact with other users sending friendly requests, add and remove friends
 
+## Built With:
+
+* Python 3.8.10 
+* Django Framework 2.0.4
+* CoreUI templates
+
 ## Contributing
 
 If you want to contribute, just open an issue and tell me where I can improve.
